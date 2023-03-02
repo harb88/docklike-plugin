@@ -10,6 +10,12 @@ Contribute in localizing the plugin to your native tongue.
 
 Simply go to the ```/po``` directory, and make your own ```[langcode].po``` file by editing ```Docklike.pot```. Then open a pull request.
 
+## Dependencies
+Ubuntu
+```
+sudo apt install xfce4-dev-tools libglib2.0-dev xorg-dev libgtk-3-dev libwnck-3-dev libxfce4ui-2-dev libxfce4panel-2.0-dev
+```
+
 ## Build & Install
 
 ```bash
